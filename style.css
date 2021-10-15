@@ -64,6 +64,7 @@ h1 {
 }
 
 .accordion-q {
+  cursor: pointer;
   display: flex;
   align-items: center;
   margin-bottom: 8px;
